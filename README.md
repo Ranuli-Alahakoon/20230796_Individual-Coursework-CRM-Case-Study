@@ -76,5 +76,6 @@ Price basis: Adj Close includes dividends but ^GSPC is a price index (the effect
 Liquidity proxy: traded value is only a proxy; spreads and price impact are not measured.
 Overlapping features: R and F partly overlap.
 Descriptive only: the clusters describe the past; they do not predict.
+
 Author
 Ranuli Alahakoon (20230796): individual coursework for the CRM module.

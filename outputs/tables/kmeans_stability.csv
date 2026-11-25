@@ -1,0 +1,3 @@
+Solution,k,Inertia_n_init_50,Single_start_inertia_min,Single_start_inertia_max,Share_single_starts_worse,ARI_vs_seed42_min,ARI_vs_seed42_mean
+KMeans_RR,5,309.613,309.8001,364.5082,1.0,0.9104,0.9402
+KMeans_RFM,4,609.8325,609.8325,790.0793,0.6,0.9939,0.9982

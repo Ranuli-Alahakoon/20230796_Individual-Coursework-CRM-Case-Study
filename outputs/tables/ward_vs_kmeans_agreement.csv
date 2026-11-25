@@ -1,0 +1,3 @@
+Matrix,k_Ward,k_KMeans,ARI,AMI,Matched_agreement_pct,Core_shares,Boundary_shares,Silhouette_Ward,Silhouette_KMeans
+Risk/return,5,5,0.318,0.497,60.494,294,192,0.304,0.341
+RFM,3,4,0.318,0.398,59.053,287,199,0.304,0.341

@@ -1,0 +1,4 @@
+Ward_RFM,Segment,Count,Share_pct,Return_mean_pct_wk,Return_median_pct_wk,Beta_mean,Beta_median,Recency_mean,Recency_median,Frequency_mean,Frequency_median,Monetary_median_bn,Monetary_mean_bn
+1,"C1: Recent, low value",250,51.44,0.253,0.249,0.94,0.927,12.12,11.0,3.36,3.0,11.178,11.764
+2,C2: Stale (median R 54 days),82,16.872,0.286,0.244,1.009,1.047,58.305,54.5,2.098,2.0,17.849,47.159
+3,"C3: Recent, high value",154,31.687,0.338,0.325,1.01,0.989,13.682,11.0,2.864,3.0,39.695,80.145

@@ -1,0 +1,18 @@
+,Return,Beta,Recency,Frequency,log1p(M)
+"Ward_RR | C1: Low beta, low return",-0.75,-1.31,0.27,-0.07,-0.04
+"Ward_RR | C2: Low beta, high return",0.51,-0.65,-0.16,-0.21,-0.09
+"Ward_RR | C3: Market beta, low return",-0.58,-0.0,-0.13,0.02,-0.32
+"Ward_RR | C4: High beta, high return",1.31,0.8,0.15,0.15,0.52
+"Ward_RR | C5: High beta, mid return",-0.32,1.61,0.15,0.18,0.45
+"KMeans_RR | C1: Low beta, mid return",-0.3,-1.08,0.06,-0.01,-0.17
+"KMeans_RR | C2: Market beta, high return",0.53,0.06,-0.17,-0.07,0.05
+"KMeans_RR | C3: Market beta, low return",-0.95,0.11,-0.03,0.02,-0.3
+"KMeans_RR | C4: High beta, high return",2.42,1.44,0.49,0.17,0.72
+"KMeans_RR | C5: High beta, mid return",-0.17,1.61,0.19,0.13,0.57
+"Ward_RFM | C1: Recent, low value",-0.12,-0.08,-0.39,0.28,-0.63
+Ward_RFM | C2: Stale (median R 54 days),0.0,0.09,1.78,-0.67,0.07
+"Ward_RFM | C3: Recent, high value",0.2,0.09,-0.32,-0.09,0.99
+"KMeans_RFM | C1: Recent, frequent, low value",-0.11,-0.02,-0.3,1.17,-0.43
+"KMeans_RFM | C2: Recent, infrequent, low value",-0.04,-0.09,-0.33,-0.47,-0.42
+KMeans_RFM | C3: Stale (median R 55 days),0.05,0.0,2.14,-0.99,0.17
+"KMeans_RFM | C4: Recent, high value",0.21,0.22,-0.25,0.18,1.44

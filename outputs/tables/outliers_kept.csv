@@ -1,0 +1,30 @@
+Matrix,Ticker,Security,Sector,Features_abs_z_gt_3,z_Mean_Weekly_Return,z_Beta,z_Recency,z_Frequency,z_Log_Monetary
+Risk/return,XYZ,"Block, Inc.",Financials,Beta,-1.67,3.76,,,
+Risk/return,CVNA,Carvana,Consumer Discretionary,"Mean_Weekly_Return, Beta",3.06,6.89,,,
+Risk/return,FIX,Comfort Systems USA,Industrials,Mean_Weekly_Return,3.19,0.89,,,
+Risk/return,NVDA,Nvidia,Information Technology,Mean_Weekly_Return,4.06,2.83,,,
+Risk/return,SMCI,Supermicro,Information Technology,Mean_Weekly_Return,5.63,1.99,,,
+Risk/return,VRT,Vertiv,Industrials,Mean_Weekly_Return,3.67,2.53,,,
+Risk/return,VST,Vistra Corp.,Utilities,Mean_Weekly_Return,3.22,0.11,,,
+RFM,APD,Air Products,Materials,Recency,,,3.03,-1.5,0.34
+RFM,AMZN,Amazon,Consumer Discretionary,Log_Monetary,,,-0.44,1.51,3.39
+RFM,AAPL,Apple Inc.,Information Technology,Log_Monetary,,,-0.44,-0.74,3.69
+RFM,AZO,AutoZone,Consumer Discretionary,Recency,,,3.64,-2.25,0.27
+RFM,AVGO,Broadcom,Information Technology,Log_Monetary,,,-0.44,2.26,3.03
+RFM,COR,Cencora,Health Care,Recency,,,3.83,-2.25,-0.1
+RFM,CB,Chubb Limited,Financials,Recency,,,3.83,-2.25,0.29
+RFM,CI,Cigna,Health Care,Frequency,,,-0.35,3.77,0.72
+RFM,DUK,Duke Energy,Utilities,Recency,,,3.83,-2.25,0.18
+RFM,FOXA,Fox Corporation (Class A),Communication Services,Frequency,,,-0.44,3.02,-0.76
+RFM,FCX,Freeport-McMoRan,Materials,Recency,,,3.55,-2.25,0.41
+RFM,HSY,Hershey Company (The),Consumer Staples,Frequency,,,-0.02,3.77,0.18
+RFM,HRL,Hormel Foods,Consumer Staples,Recency,,,3.83,-2.25,-1.58
+RFM,MKC,McCormick & Company,Consumer Staples,Recency,,,3.31,-2.25,-0.95
+RFM,MDT,Medtronic,Health Care,Recency,,,3.83,-2.25,0.48
+RFM,META,Meta Platforms,Communication Services,Log_Monetary,,,-0.44,0.01,3.28
+RFM,MSFT,Microsoft,Information Technology,Log_Monetary,,,-0.44,-0.74,3.53
+RFM,NVDA,Nvidia,Information Technology,"Recency, Log_Monetary",,,9.46,-2.25,4.83
+RFM,TSLA,"Tesla, Inc.",Consumer Discretionary,Log_Monetary,,,1.39,1.51,4.85
+RFM,UNH,UnitedHealth Group,Health Care,Frequency,,,-0.3,3.02,2.19
+RFM,WEC,WEC Energy Group,Utilities,Recency,,,6.13,-2.25,-0.61
+RFM,XEL,Xcel Energy,Utilities,Frequency,,,-0.44,3.02,-0.26

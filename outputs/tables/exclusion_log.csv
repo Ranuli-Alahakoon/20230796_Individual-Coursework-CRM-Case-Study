@@ -1,0 +1,18 @@
+Ticker,Stage,Reason,Rule
+APP,1.2 Validation,Unequal/incomplete history: 210 missing values (first price 2021-04-15),Unequal/incomplete history
+COIN,1.2 Validation,Unequal/incomplete history: 207 missing values (first price 2021-04-14),Unequal/incomplete history
+CEG,1.2 Validation,Unequal/incomplete history: 789 missing values (first price 2022-01-19),Unequal/incomplete history
+EXE,1.2 Validation,Unequal/incomplete history: 78 missing values (first price 2021-02-10),Unequal/incomplete history
+FDXF,1.2 Validation,No price data downloaded,No price data downloaded
+FERG,1.2 Validation,Zero/negative volume on 27 days,Zero/negative volume on n days
+GEHC,1.2 Validation,Unequal/incomplete history: 1476 missing values (first price 2022-12-15),Unequal/incomplete history
+GEV,1.2 Validation,Unequal/incomplete history: 2436 missing values (first price 2024-03-27),Unequal/incomplete history
+HONA,1.2 Validation,No price data downloaded,No price data downloaded
+Q,1.2 Validation,No price data downloaded,No price data downloaded
+RDDT,1.2 Validation,Unequal/incomplete history: 2424 missing values (first price 2024-03-21),Unequal/incomplete history
+HOOD,1.2 Validation,Unequal/incomplete history: 429 missing values (first price 2021-07-29),Unequal/incomplete history
+SNDK,1.2 Validation,No price data downloaded,No price data downloaded
+SW,1.2 Validation,Zero/negative volume on 424 days,Zero/negative volume on n days
+SOLV,1.2 Validation,Unequal/incomplete history: 2433 missing values (first price 2024-03-26),Unequal/incomplete history
+VLTO,1.2 Validation,Unequal/incomplete history: 2076 missing values (first price 2023-10-04),Unequal/incomplete history
+VYLR,1.2 Validation,No price data downloaded,No price data downloaded

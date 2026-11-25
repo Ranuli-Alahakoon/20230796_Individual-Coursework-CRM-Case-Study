@@ -1,0 +1,28 @@
+,Value
+Calc_Version,v3.0
+Run_Timestamp,2026-11-24T10:36:04
+Ticker_Source,https://en.wikipedia.org/wiki/List_of_S%26P_500_companies
+Ticker_Retrieval_Date,2026-11-24
+Price_Source,yfinance 0.2.66 (auto_adjust=False)
+Benchmark,"^GSPC (price index, Adj Close)"
+Study_Start,2021-01-01
+Study_End_Exclusive,2025-01-01
+Observation_Date,2024-12-31
+Weekly_Rule,"W-FRI last price, complete weeks only"
+Weeks_Used,207
+Event_Rule,Volume > 2 x mean of preceding 20 sessions (current day excluded)
+RFM_Window,2024-10-07 to 2024-12-31 (60 sessions)
+Shares_Retrieved,503
+Shares_Clustered,486
+K_Selection_Rule,"max silhouette, k >= 3, smallest cluster >= 5% of shares"
+K_Ward_RR,5
+K_Ward_RFM,3
+K_KMeans_RR,5
+K_KMeans_RFM,4
+KMeans_Seed,42
+KMeans_n_init,50
+Permutations,500
+pandas,2.2.3
+numpy,2.4.6
+scikit_learn,1.6.1
+scipy,1.16.3

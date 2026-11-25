@@ -1,0 +1,246 @@
+Ticker,Previous_segment,Current_segment,Prev_Recency,Prev_Frequency,Security,Recency,Frequency,Monetary_USD_bn
+MMM,"C4: Recent, high value","C1: Recent, frequent, low value",10,3,3M,11.0,4,25.99145873334198
+AOS,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",4,5,A. O. Smith,11.0,2,4.74898027960205
+ABT,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",63,3,Abbott Laboratories,11.0,1,35.23027260627441
+AMD,C3: Stale (median R 55 days),"C4: Recent, high value",61,1,Advanced Micro Devices,18.0,4,313.1659097938118
+AES,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,3,AES Corporation,54.0,3,11.195779304460906
+AFL,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Aflac,11.0,2,13.284556947324372
+A,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",94,0,Agilent Technologies,11.0,2,14.00179571604843
+APD,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Air Products,85.0,1,26.62260869029541
+ALGN,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",67,1,Align Technology,11.0,4,10.676625464918517
+LNT,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Alliant Energy,60.0,2,5.708137455085373
+AMCR,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Amcor,11.0,6,7.6859006491761015
+AEE,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Ameren,11.0,4,7.567404766717529
+AEP,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,American Electric Power,11.0,4,15.967180497969817
+AMT,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",48,3,American Tower,11.0,3,29.765192677708434
+AME,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",56,3,Ametek,11.0,3,12.779598022207642
+ADI,"C4: Recent, high value",C3: Stale (median R 55 days),11,2,Analog Devices,36.0,1,38.49917513934021
+APO,C3: Stale (median R 55 days),"C4: Recent, high value",55,4,Apollo Global Management,11.0,3,53.00747727400208
+ARES,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",101,0,Ares Management,11.0,4,13.12005125180359
+AJG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Arthur J. Gallagher & Co.,4.0,6,28.243041454397584
+AIZ,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Assurant,11.0,4,4.4785648126297
+T,"C1: Recent, frequent, low value","C4: Recent, high value",10,5,AT&T,11.0,4,45.92877679157066
+ATO,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Atmos Energy,11.0,2,6.862328628384399
+AZO,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),6,3,AutoZone,98.0,0,24.823919365722656
+AVY,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Avery Dennison,11.0,4,6.485253652789306
+BKR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",11,4,Baker Hughes,11.0,2,14.888862227931595
+BAC,C3: Stale (median R 55 days),"C4: Recent, high value",76,1,Bank of America,11.0,2,90.63230668400612
+BAX,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",55,2,Baxter International,11.0,3,8.206262713314437
+BDX,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),25,4,Becton Dickinson,53.0,3,23.420929385260955
+BRK-B,C3: Stale (median R 55 days),"C4: Recent, high value",56,1,Berkshire Hathaway,11.0,1,107.07787512581177
+TECH,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",11,2,Bio-Techne,11.0,4,3.888010688756561
+BLK,"C2: Recent, infrequent, low value","C4: Recent, high value",10,2,BlackRock,11.0,4,40.14653506278687
+BX,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",73,3,Blackstone Inc.,11.0,5,35.382471290113834
+XYZ,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",59,2,"Block, Inc.",49.0,5,40.52406291450882
+BE,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Bloom Energy,43.0,6,9.729464332207394
+BSX,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",68,1,Boston Scientific,11.0,2,30.485566491208647
+BRO,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",6,6,Brown & Brown,11.0,2,8.347220842556762
+BXP,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,"BXP, Inc.",11.0,4,5.741658445274353
+CPT,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",20,6,Camden Property Trust,11.0,3,5.603426641404724
+COF,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),20,1,Capital One,55.0,2,30.361338966757202
+CAH,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",47,1,Cardinal Health,11.0,4,14.784384000527954
+CARR,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",94,0,Carrier Global,11.0,3,19.654848533340456
+CBOE,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Cboe Global Markets,11.0,4,11.853509289555358
+CDW,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,3,CDW Corporation,61.0,3,14.767513450976562
+COR,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),10,4,Cencora,102.0,0,17.59981273931122
+SCHW,"C4: Recent, high value",C3: Stale (median R 55 days),39,4,Charles Schwab Corporation,55.0,2,35.86597092440033
+CHTR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",6,4,Charter Communications,11.0,3,25.58408590027771
+CMG,"C4: Recent, high value",C3: Stale (median R 55 days),48,3,Chipotle Mexican Grill,60.0,3,32.664764777783965
+CB,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,3,Chubb Limited,102.0,0,25.23472439582825
+CHD,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Church & Dwight,11.0,4,9.266361778141786
+CIEN,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,6,Ciena,18.0,3,8.936409122798539
+CTAS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Cintas,11.0,6,20.4229828549469
+CFG,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",75,1,Citizens Financial Group,11.0,4,11.405645719532776
+CLX,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Clorox,11.0,4,11.33570334382782
+COHR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,6,Coherent Corp.,11.0,3,14.43628802515564
+CMCSA,"C2: Recent, infrequent, low value","C4: Recent, high value",10,1,Comcast,11.0,3,47.4308291381715
+FIX,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Comfort Systems USA,64.0,2,8.597492433752441
+ED,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Consolidated Edison,11.0,4,12.785738520792389
+COO,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",32,2,Cooper Companies (The),25.0,5,8.036868656838227
+CPRT,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",25,1,Copart,11.0,5,14.429972594359588
+GLW,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Corning Inc.,11.0,3,12.69702932619667
+CCI,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Crown Castle,11.0,4,17.83216173275299
+CSX,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,CSX Corporation,55.0,2,24.36326316454048
+CMI,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",60,1,Cummins,11.0,4,13.09835616625061
+CVS,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",151,0,CVS Health,13.0,5,44.83417692056122
+DRI,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Darden Restaurants,11.0,4,12.866047142030334
+DDOG,C3: Stale (median R 55 days),"C4: Recent, high value",53,2,Datadog,39.0,3,38.44712600445709
+DECK,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Deckers Brands,11.0,4,20.775488688456726
+DXCM,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,5,Dexcom,11.0,3,17.816291588504793
+FANG,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",3,7,Diamondback Energy,11.0,2,23.721613285209656
+DLTR,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),25,4,Dollar Tree,46.0,3,16.65859719354782
+D,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Dominion Energy,60.0,2,15.352907392868804
+DOW,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Dow Inc.,11.0,4,18.956350158688736
+DHI,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,D. R. Horton,11.0,4,27.28810812432556
+DTE,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",11,3,DTE Energy,11.0,4,9.81704620149765
+DUK,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Duke Energy,102.0,0,22.747973082878875
+EIX,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Edison International,11.0,2,10.565604027301788
+ELV,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),10,5,Elevance Health,74.0,2,49.01491598002319
+ETR,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),21,1,Entergy,60.0,3,15.050956758599854
+EQT,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",73,1,EQT Corporation,36.0,3,17.740557253085328
+EQIX,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Equinix,11.0,4,27.292959823248292
+ERIE,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,6,Erie Indemnity,11.0,3,3.8907831242675783
+ESS,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Essex Property Trust,11.0,2,6.056310410748291
+EL,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),4,5,Estée Lauder Companies (The),60.0,3,21.05258946738014
+EG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Everest Group,36.0,6,9.7914608527771
+P,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",27,2,Everpure,27.0,5,10.253108822010804
+ES,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Eversource Energy,11.0,4,7.759861191431045
+EXPE,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",52,3,Expedia Group,11.0,4,15.334720124909973
+EXR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",4,4,Extra Space Storage,11.0,1,9.179366817085267
+FFIV,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,5,"F5, Inc.",11.0,3,8.188454743873596
+FDS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",11,3,FactSet,11.0,4,7.361952003051758
+FICO,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Fair Isaac,54.0,1,20.131668332104493
+FITB,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Fifth Third Bancorp,11.0,4,11.65165288053627
+FSLR,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),19,1,First Solar,55.0,4,33.246206276535034
+FOXA,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Fox Corporation (Class A),11.0,7,9.388144429734039
+FOX,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Fox Corporation (Class B),11.0,4,2.708141223473358
+BEN,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Franklin Resources,11.0,4,5.115950358613015
+FCX,"C4: Recent, high value",C3: Stale (median R 55 days),4,3,Freeport-McMoRan,96.0,0,28.47770150541916
+IT,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Gartner,11.0,4,11.15360760385437
+GNRC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Generac,11.0,5,8.531541663423157
+GM,C3: Stale (median R 55 days),"C4: Recent, high value",69,1,General Motors,35.0,3,38.49512036694832
+GPC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",25,3,Genuine Parts Company,11.0,5,10.270732224234008
+GPN,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),5,2,Global Payments,62.0,1,13.409591150482179
+HAL,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),4,1,Halliburton,55.0,1,15.907305119899178
+HIG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Hartford (The),11.0,5,10.884568357587433
+HCA,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,HCA Healthcare,55.0,3,30.284442467721558
+DOC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Healthpeak Properties,11.0,5,6.504913117363357
+HSIC,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",20,4,Henry Schein,43.0,3,6.7031617572624205
+HSY,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Hershey Company (The),20.0,8,22.735306811305236
+HPE,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",18,4,Hewlett Packard Enterprise,11.0,3,16.709045815698243
+HON,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",66,2,Honeywell Technologies,15.0,6,59.0715370643577
+HRL,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,3,Hormel Foods,102.0,0,4.373582820583534
+HST,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",59,3,Host Hotels & Resorts,11.0,3,7.4954923480175015
+HUBB,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",94,0,Hubbell Incorporated,11.0,2,10.515841189973358
+HUM,"C1: Recent, frequent, low value","C4: Recent, high value",14,4,Humana,11.0,4,33.60468382548523
+HBAN,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",110,0,Huntington Bancshares,11.0,3,14.177888831622505
+HII,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Huntington Ingalls Industries,11.0,4,6.770928504640198
+IEX,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,IDEX Corporation,11.0,5,7.161377262521362
+IDXX,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Idexx Laboratories,61.0,3,16.946940962475587
+ILMN,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",48,2,"Illumina, Inc.",11.0,4,17.61664617602081
+INCY,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Incyte,11.0,4,8.623603438046265
+IR,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",59,2,Ingersoll Rand,11.0,1,11.902153361859893
+PODD,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",52,2,Insulet Corporation,11.0,3,8.361442380026245
+INTC,"C1: Recent, frequent, low value","C4: Recent, high value",10,9,Intel,26.0,4,93.42180854216194
+IBKR,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",17,3,Interactive Brokers,11.0,4,10.83195919500885
+ICE,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",101,0,Intercontinental Exchange,11.0,2,28.419133351820374
+IFF,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,International Flavors & Fragrances,11.0,4,7.866979291435242
+INTU,"C4: Recent, high value",C3: Stale (median R 55 days),10,2,Intuit,55.0,1,59.2519663815979
+IVZ,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",69,1,Invesco,11.0,1,3.693969948080635
+IQV,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,IQVIA,11.0,6,19.375697973957823
+IRM,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Iron Mountain,11.0,4,10.795356891026307
+JBHT,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",75,2,J.B. Hunt,11.0,3,9.37478229092865
+JKHY,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),40,3,Jack Henry & Associates,46.0,2,6.090702694876098
+J,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",53,2,Jacobs Solutions,11.0,3,6.402236500726761
+KDP,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Keurig Dr Pepper,11.0,4,22.692973606068612
+KEY,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",49,2,KeyCorp,11.0,2,10.138161895372582
+KEYS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",40,2,Keysight Technologies,11.0,5,11.788257967449951
+KMB,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Kimberly-Clark,11.0,4,17.44467880443878
+KKR,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",56,1,KKR & Co.,11.0,2,28.21063616082001
+KLAC,C3: Stale (median R 55 days),"C4: Recent, high value",60,4,KLA Corporation,11.0,4,46.01549392899322
+KHC,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Kraft Heinz,46.0,2,17.95749664750862
+KR,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",18,1,Kroger,11.0,5,16.89491632152519
+LHX,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",66,1,L3Harris,14.0,3,12.394199479281616
+LH,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",60,1,Labcorp,11.0,5,8.156168337277222
+LDOS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Leidos,11.0,5,12.696339135661315
+LEN,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Lennar,11.0,5,21.85550357888942
+LII,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Lennox International,11.0,5,14.39485905100708
+LIN,"C2: Recent, infrequent, low value","C4: Recent, high value",10,1,Linde plc,11.0,2,53.98765837426147
+LYV,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Live Nation Entertainment,49.0,3,17.624097536850737
+LITE,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),46,3,Lumentum,53.0,2,8.253761532015991
+MTB,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,M&T Bank,11.0,4,13.621874341465759
+MAR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,6,Marriott International,11.0,1,20.54434927170105
+MLM,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",122,0,Martin Marietta Materials,11.0,3,14.735291447650146
+MAS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Masco,11.0,4,6.8835365945755
+MA,C3: Stale (median R 55 days),"C4: Recent, high value",101,0,Mastercard,11.0,2,77.92300415090027
+MKC,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,McCormick & Company,91.0,0,7.850361235401916
+MCK,"C4: Recent, high value","C1: Recent, frequent, low value",6,3,McKesson,11.0,4,28.415606315374756
+MDT,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Medtronic,102.0,0,30.15811634425354
+MET,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,MetLife,11.0,4,16.127374862657167
+MTD,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Mettler Toledo,11.0,4,10.279229969934082
+MGM,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,MGM Resorts,11.0,2,8.73023575266037
+MCHP,"C4: Recent, high value","C2: Recent, infrequent, low value",10,4,Microchip Technology,11.0,2,29.06997111343994
+MOS,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,1,Mosaic Company (The),49.0,1,6.605747580690384
+MSI,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",55,3,Motorola Solutions,11.0,2,22.979574655789186
+NDAQ,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",62,3,"Nasdaq, Inc.",11.0,2,12.031861716901398
+NWS,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,News Corp (Class B),11.0,3,1.2974826170478821
+NEE,"C2: Recent, infrequent, low value","C4: Recent, high value",10,1,NextEra Energy,11.0,3,47.77347182861633
+NI,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",31,2,NiSource,11.0,4,7.450675888291168
+NDSN,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Nordson Corporation,11.0,5,4.269035328048706
+NSC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",17,2,Norfolk Southern,11.0,4,18.132785230212402
+NXPI,"C4: Recent, high value","C2: Recent, infrequent, low value",10,4,NXP Semiconductors,11.0,2,31.803957859550476
+OXY,C3: Stale (median R 55 days),"C4: Recent, high value",48,2,Occidental Petroleum,11.0,3,34.321455217726516
+OKTA,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",32,3,"Okta, Inc.",27.0,5,14.438325013310243
+OMC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Omnicom Group,11.0,5,11.479364294000245
+OKE,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Oneok,11.0,2,18.37530633499832
+PCAR,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",68,2,Paccar,11.0,2,15.657056436773681
+PH,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Parker Hannifin,11.0,4,23.608027500738526
+PAYX,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",94,0,Paychex,11.0,5,14.73623252024536
+PCG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,PG&E Corporation,28.0,4,17.358536269314385
+PM,"C2: Recent, infrequent, low value","C4: Recent, high value",10,2,Philip Morris International,11.0,4,38.590880125289154
+PNW,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Pinnacle West Capital,46.0,2,6.67660693198471
+PRU,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,5,Prudential Financial,11.0,3,10.763237835570527
+PTC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",31,2,PTC Inc.,11.0,4,8.541469679431152
+PSA,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Public Storage,11.0,4,14.194395215472412
+PHM,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,PulteGroup,11.0,5,13.755732584523773
+REG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Regency Centers,11.0,4,4.740826666556549
+RSG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Republic Services,11.0,4,11.885250136552429
+ROK,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Rockwell Automation,11.0,4,14.714087267736817
+RCL,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",55,2,Royal Caribbean Group,11.0,2,25.22724331752167
+RTX,"C4: Recent, high value","C2: Recent, infrequent, low value",10,2,RTX Corporation,11.0,2,32.945100334957125
+SPGI,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",94,0,S&P Global,11.0,1,36.596854310027496
+SBAC,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",24,3,SBA Communications,11.0,4,12.191378443669128
+STX,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Seagate Technology,11.0,5,14.715848892967987
+NOW,"C4: Recent, high value",C3: Stale (median R 55 days),10,4,ServiceNow,68.0,1,75.23861410137177
+SHW,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,2,Sherwin-Williams,54.0,4,41.97427205559693
+SKYD,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Skydance,36.0,4,5.9036384835988995
+SWKS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Skyworks Solutions,11.0,4,12.520125167111207
+SJM,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,J.M. Smucker Company (The),35.0,4,7.557593272223663
+SNA,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Snap-on,11.0,4,8.377072813781739
+SO,"C2: Recent, infrequent, low value",C3: Stale (median R 55 days),10,3,Southern Company,61.0,1,21.24212131004715
+SWK,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,5,Stanley Black & Decker,11.0,3,9.160711506733703
+STT,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",76,1,State Street Corporation,11.0,3,12.303611961026
+STE,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",166,0,Steris,11.0,5,7.852885348146057
+SYK,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",61,3,Stryker Corporation,11.0,4,27.373835998623658
+SYY,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Sysco,11.0,3,13.650908801605988
+TPR,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",46,1,"Tapestry, Inc.",11.0,5,15.456788791430665
+TRGP,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Targa Resources,11.0,2,18.88894234593506
+TGT,C3: Stale (median R 55 days),"C4: Recent, high value",40,1,Target Corporation,40.0,4,51.36882521818313
+TEL,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",68,2,TE Connectivity,11.0,2,13.596446729048157
+TSLA,C3: Stale (median R 55 days),"C4: Recent, high value",81,1,"Tesla, Inc.",50.0,5,1847.6973792218428
+TXN,"C4: Recent, high value",C3: Stale (median R 55 days),10,2,Texas Instruments,69.0,1,66.50860513629456
+TPL,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,Texas Pacific Land Corporation,36.0,5,19.33004912677002
+TMO,C3: Stale (median R 55 days),"C4: Recent, high value",67,1,Thermo Fisher Scientific,42.0,3,57.10671248986206
+TJX,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",40,1,TJX Companies,11.0,2,36.03873051961823
+TKO,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,3,TKO Group Holdings,26.0,4,7.236815207434845
+TSCO,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",67,1,Tractor Supply,11.0,3,17.12146726034355
+TDG,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,TransDigm Group,40.0,5,21.124776962353515
+TRMB,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,6,Trimble Inc.,11.0,2,4.948593938583755
+TWLO,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",59,1,Twilio,11.0,4,15.207726397789001
+TSN,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Tyson Foods,11.0,2,8.016556431951523
+USB,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",18,3,U.S. Bancorp,11.0,4,23.154464158021927
+ULTA,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",31,5,Ulta Beauty,25.0,3,23.75753107118225
+UNP,"C2: Recent, infrequent, low value","C4: Recent, high value",10,1,Union Pacific Corporation,11.0,3,36.067995633479306
+UAL,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",4,4,United Airlines Holdings,11.0,2,32.36509948777962
+UPS,"C4: Recent, high value","C2: Recent, infrequent, low value",10,3,United Parcel Service,11.0,2,31.719832313442993
+URI,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",68,1,United Rentals,11.0,3,25.74910781189575
+VEEV,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",31,2,Veeva Systems,25.0,5,14.63608547971344
+VTR,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Ventas,11.0,3,9.773038496338653
+VRTX,"C2: Recent, infrequent, low value","C4: Recent, high value",10,2,Vertex Pharmaceuticals,11.0,4,39.330710299072265
+VICI,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Vici Properties,11.0,4,8.883842395220375
+VST,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),5,5,Vistra Corp.,54.0,1,50.2699126052742
+VMRK,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Vivmark Residential,11.0,2,6.378170613330841
+VMC,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",55,2,Vulcan Materials Company,11.0,4,13.772601398616027
+WRB,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,5,W. R. Berkley Corporation,11.0,2,5.86496503033905
+GWW,C3: Stale (median R 55 days),"C2: Recent, infrequent, low value",60,1,W. W. Grainger,11.0,3,15.895075475585937
+WAB,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",53,1,Wabtec,11.0,5,11.987020167468263
+WM,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",67,1,Waste Management,11.0,4,19.610949295869446
+WST,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",67,1,West Pharmaceutical Services,11.0,5,12.244915483477783
+WDC,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",60,4,Western Digital,11.0,6,21.158529237627008
+WSM,C3: Stale (median R 55 days),"C1: Recent, frequent, low value",39,1,"Williams-Sonoma, Inc.",11.0,4,20.004031743937684
+WTW,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",10,4,Willis Towers Watson,11.0,2,12.690754705044556
+WDAY,C3: Stale (median R 55 days),"C4: Recent, high value",38,2,"Workday, Inc.",11.0,5,51.70405560505371
+WYNN,"C1: Recent, frequent, low value",C3: Stale (median R 55 days),0,9,Wynn Resorts,47.0,2,13.738338674071503
+XEL,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,2,Xcel Energy,11.0,7,15.041830681437682
+ZBRA,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",24,3,Zebra Technologies,11.0,4,8.326926737359619
+ZTS,"C2: Recent, infrequent, low value","C1: Recent, frequent, low value",10,1,Zoetis,11.0,4,25.329254124917604

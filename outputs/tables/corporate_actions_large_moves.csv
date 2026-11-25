@@ -1,0 +1,9 @@
+Date,Ticker,Close_daily_change,Close_return,Adj_Close_return,Split_or_dividend_within_5d,Assessment
+2022-08-05,CVNA,0.4007155116232253,0.4007155116232253,0.4007155116232253,False,Genuine price move (Close and Adj Close agree) - kept
+2022-12-07,CVNA,0.4292101576263032,-0.4292101576263032,-0.4292101576263032,False,Genuine price move (Close and Adj Close agree) - kept
+2023-01-12,CVNA,0.4599999198046616,0.4599999198046616,0.4599999198046616,False,Genuine price move (Close and Adj Close agree) - kept
+2023-06-08,CVNA,0.5602061422645068,0.5602061422645068,0.5602061422645068,False,Genuine price move (Close and Adj Close agree) - kept
+2023-07-19,CVNA,0.402010024363024,0.402010024363024,0.402010024363024,False,Genuine price move (Close and Adj Close agree) - kept
+2024-04-11,GL,0.5314019057853758,-0.5314019057853758,-0.5314019233528515,False,Genuine price move (Close and Adj Close agree) - kept
+2024-07-26,DXCM,0.4065832090358631,-0.4065832090358631,-0.4065832090358631,False,Genuine price move (Close and Adj Close agree) - kept
+2024-11-15,BE,0.5918674559279298,0.5918674559279298,0.5918674559279298,False,Genuine price move (Close and Adj Close agree) - kept

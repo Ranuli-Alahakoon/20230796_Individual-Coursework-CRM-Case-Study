@@ -1,0 +1,5 @@
+Previous_segment,"C1: Recent, frequent, low value","C2: Recent, infrequent, low value",C3: Stale (median R 55 days),"C4: Recent, high value"
+"C1: Recent, frequent, low value",14,35,7,3
+"C2: Recent, infrequent, low value",83,141,29,7
+C3: Stale (median R 55 days),23,32,18,13
+"C4: Recent, high value",2,4,7,68

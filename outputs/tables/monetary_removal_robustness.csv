@@ -1,0 +1,9 @@
+Algorithm,k,Selected_k,ARI_with_vs_without_M,eta2_logM_with_M,eta2_logM_without_M
+Ward,2,,0.873,0.001,0.004
+Ward,3,yes,0.291,0.516,0.004
+Ward,4,,0.203,0.524,0.005
+Ward,5,,0.335,0.526,0.022
+K-means,2,,0.933,0.01,0.002
+K-means,3,,0.195,0.539,0.003
+K-means,4,yes,0.609,0.517,0.006
+K-means,5,,0.307,0.512,0.023

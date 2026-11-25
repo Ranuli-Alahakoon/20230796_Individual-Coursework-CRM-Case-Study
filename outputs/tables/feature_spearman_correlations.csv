@@ -1,0 +1,6 @@
+,Mean_Weekly_Return,Beta,Recency,Frequency,Monetary
+Mean_Weekly_Return,1.0,0.2,-0.02,-0.02,0.25
+Beta,0.2,1.0,0.08,0.08,0.17
+Recency,-0.02,0.08,1.0,-0.2,0.14
+Frequency,-0.02,0.08,-0.2,1.0,-0.05
+Monetary,0.25,0.17,0.14,-0.05,1.0

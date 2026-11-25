@@ -1,0 +1,5 @@
+Solution,Chi2,dof,p_value,Cramers_V
+Ward_RR,354.8364,40,0.0,0.4272
+KMeans_RR,272.8238,40,0.0,0.3746
+Ward_RFM,66.3242,20,0.0,0.2612
+KMeans_RFM,78.2654,30,0.0,0.2317

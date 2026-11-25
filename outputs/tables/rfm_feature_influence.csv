@@ -1,0 +1,7 @@
+Solution,Feature,eta2_feature_explained_by_clusters,Share_of_between_cluster_separation_pct,ARI_full_vs_without_this_feature
+Ward RFM (k=3),Recency,0.642,50.29,0.179
+Ward RFM (k=3),Frequency,0.119,9.296,0.798
+Ward RFM (k=3),Log_Monetary,0.516,40.414,0.291
+K-means RFM (k=4),Recency,0.658,37.695,0.552
+K-means RFM (k=4),Frequency,0.57,32.677,0.375
+K-means RFM (k=4),Log_Monetary,0.517,29.628,0.609

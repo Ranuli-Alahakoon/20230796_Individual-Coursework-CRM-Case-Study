@@ -1,0 +1,6 @@
+Grouping,Within_mean_corr,Across_mean_corr,Random_within_mean,Random_within_sd,z_vs_random
+Ward_RR,0.3594,0.2802,0.2995,0.0028,21.6729
+KMeans_RR,0.3499,0.2823,0.2996,0.002,24.8223
+Ward_RFM,0.3123,0.2913,0.2995,0.0021,6.1709
+KMeans_RFM,0.3142,0.2931,0.2997,0.0025,5.7283
+GICS sector,0.4144,0.2851,,,

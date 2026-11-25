@@ -1,0 +1,4 @@
+,Recency,Frequency,Log_Monetary
+Recency,1.0,-0.196,0.137
+Frequency,-0.196,1.0,-0.048
+Log_Monetary,0.137,-0.048,1.0

@@ -1,0 +1,4 @@
+Ward_RFM,Count,Recency_median,Frequency_median,Monetary_q25_bn,Monetary_median_bn,Monetary_mean_bn,Monetary_q75_bn
+1,250,11.0,3.0,7.902,11.178,11.764,14.917
+2,82,54.5,2.0,13.021,17.849,47.159,32.502
+3,154,11.0,3.0,28.223,39.695,80.145,68.392

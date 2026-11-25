@@ -1,0 +1,8 @@
+Matrix,Feature,Transform,Skew_raw,Skew_used,n_abs_z_gt_3,Max_abs_z,Top1pct_share_of_squared_z
+Risk/return,Mean_Weekly_Return,none,0.868,0.868,6,5.631,0.169
+Risk/return,Beta,none,1.104,1.104,2,6.893,0.175
+RFM,Recency,none,3.646,3.646,11,9.455,0.352
+RFM,Frequency,none,0.425,0.425,5,3.769,0.115
+RFM,Monetary,log1p,11.684,1.079,7,4.848,0.174
+RFM (not used),Monetary,none: what raw M would do,11.684,11.684,5,14.017,0.894
+RFM (not used),Recency,log1p: candidate,3.646,1.583,2,4.216,0.117

@@ -1,0 +1,11 @@
+Table,Grain,Key,Rows,Columns
+dim_calc_run,run,run_id,1,"run_id, calc_version, run_timestamp_utc, ticker_source, ticker_retrieval_date, price_source, auto_adjust, study_start, study_end_exclusive, observation_date, rfm_window_start, rfm_window_end, weekly_rule, event_rule, k_selection_rule, kmeans_seed, kmeans_n_init, snapshot_sha256_json, package_versions_json"
+dim_date,trading day,date,1005,"date, year, quarter, month, weekday, week_label_fri, in_rfm_window, is_observation_date"
+dim_share,ticker (all 503),ticker,503,"wiki_symbol, ticker, security, status, stage, reason, sector_id, date_added"
+dim_sector,GICS sector,sector_id,11,"sector_id, sector_name"
+dim_benchmark,benchmark,benchmark_id,1,"benchmark_id, name, type, price_basis"
+fact_daily_market,share x trading day,"ticker, date",488430,"date, ticker, close, adj_close, volume, dividend, split_ratio, baseline_20, high_volume_event, traded_value"
+fact_benchmark_daily,benchmark x trading day,"benchmark_id, date",1005,"date, benchmark_id, adj_close, close"
+fact_weekly_return,share x week,"ticker, week_label_fri",100602,"week_label_fri, ticker, weekly_return, benchmark_id, benchmark_return"
+fact_share_features,share x run,"run_id, ticker",486,"run_id, ticker, mean_weekly_return, weekly_obs, beta, beta_se, paired_weeks, recency_days, frequency_days, monetary_usd, log1p_monetary, last_event_date, observation_date, window_start, window_end"
+fact_cluster_assignment,share x run x solution,"run_id, solution, ticker",2430,"run_id, ticker, solution, algorithm, feature_matrix, k, cluster, segment_name"

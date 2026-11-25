@@ -1,0 +1,25 @@
+Section,Item,Value
+1.1,Tickers listed / included / excluded,503 / 486 / 17
+1.1,Index removals since study start (missing from data),not available: Wikipedia changes table absent at retrieval date
+1.3,Weekly returns per share,207
+1.3,Median beta / median R2,0.951 / 0.28
+1.3,Shares with mean return significantly != 0,54 of 486
+1.4,Most common Recency (share of stocks),R = 11 (73%)
+1.5,Persistence 2021-22 -> 2023-24 (Spearman): return / beta,-0.14 / 0.80
+2.2/2.3,"Selected k (Ward RR, K-means RR, Ward RFM, K-means RFM)","5, 5, 3, 4"
+2.3,K-means RR seed stability at selected k (mean ARI),0.94
+2.4,Ward vs K-means ARI (RR / RFM),0.318 / 0.318
+2.4,Matched agreement % (RR / RFM),60% / 59%
+2.5.1,Pearson R-F / R-logM / F-logM,-0.35 / 0.15 / 0.01
+2.5.1,Ward RFM: ARI without each feature (R / F / M),0.18 / 0.80 / 0.29
+2.5.2,"Ward RFM vs R,F-only ARI",0.291
+2.5.2,eta2 of log1p(M): with M / without M,0.516 / 0.004
+3.2.1,Risk/return vs RFM ARI (Ward / K-means),0.039 / 0.021
+3.2.1,"Sector Cramer's V (Ward RR, K-means RR, Ward RFM, K-means RFM)","0.43, 0.37, 0.26, 0.23"
+3.2.2,Activity segment unchanged since previous quarter-end,50%
+3.2.3,Within-cluster return correlation z vs random (Ward RR / Ward RFM),21.7 / 6.2
+3.2.3,Residual correlation same / different sector,0.173 / 0.037
+3.2.3,Beta correlation Adj Close vs Close; dividend uplift per year,0.99995; 1.81%
+3.2.3,"Survivorship: late additions vs others, mean weekly return %",0.467 vs 0.254 (n = 72)
+3.2.3,Out-of-sample eta2 return: in / out (Ward),0.26 / 0.12
+3.2.3,Out-of-sample eta2 beta: in / out (Ward),0.66 / 0.45
